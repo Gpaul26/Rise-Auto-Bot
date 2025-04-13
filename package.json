@@ -1,5 +1,5 @@
 {
-  "name": "rise-testnet-bot",
+  "name": "Rise-Auto-Bot",
   "version": "1.0.0",
   "description": "Automated bot for Rise Testnet with Blessed UI",
   "main": "index.js",
@@ -12,6 +12,6 @@
     "ethers": "^6.13.2",
     "blessed": "^0.1.81"
   },
-  "author": "airdropinsiders",
+  "author": "Kazuha787",
   "license": "MIT"
 }
