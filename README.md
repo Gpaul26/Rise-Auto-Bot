@@ -51,7 +51,7 @@ npm run setup
 
 1. Create `.config` file in root: and Add `Address and pk` in the file 
 ```
-nano config/config.js
+nano accounts/accounts.js
 ```
 ## 📁 Project Structure
 
